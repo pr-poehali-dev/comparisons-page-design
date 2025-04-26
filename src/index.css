@@ -49,6 +49,11 @@
     --sidebar-border: 220 13% 91%;
 
     --sidebar-ring: 217.2 91.2% 59.8%;
+    
+    /* Binary Epoch цвета */
+    --binary-blue: 214 100% 60%;
+    --binary-light-blue: 214 100% 70%;
+    --binary-bg: 220 30% 97%;
   }
 
   .dark {
